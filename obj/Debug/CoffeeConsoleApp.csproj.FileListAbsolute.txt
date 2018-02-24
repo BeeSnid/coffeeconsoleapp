@@ -1,0 +1,6 @@
+c:\users\brandy\documents\visual studio 2017\Projects\CoffeeConsoleApp\bin\Debug\CoffeeConsoleApp.exe.config
+c:\users\brandy\documents\visual studio 2017\Projects\CoffeeConsoleApp\bin\Debug\CoffeeConsoleApp.exe
+c:\users\brandy\documents\visual studio 2017\Projects\CoffeeConsoleApp\bin\Debug\CoffeeConsoleApp.pdb
+c:\users\brandy\documents\visual studio 2017\Projects\CoffeeConsoleApp\obj\Debug\CoffeeConsoleApp.exe
+c:\users\brandy\documents\visual studio 2017\Projects\CoffeeConsoleApp\obj\Debug\CoffeeConsoleApp.pdb
+C:\Users\Brandy\documents\visual studio 2017\Projects\CoffeeConsoleApp\obj\Debug\CoffeeConsoleApp.csprojResolveAssemblyReference.cache
